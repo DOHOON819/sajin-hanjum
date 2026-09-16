@@ -1,0 +1,1 @@
+{"name":"sajin-hanjum","private":true,"type":"module","scripts":{"test":"node --test tests/core.test.js","dev":"node dev-server.js"}}
